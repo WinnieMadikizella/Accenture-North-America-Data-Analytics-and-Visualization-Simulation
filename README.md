@@ -1,4 +1,4 @@
-# Accenture-North-America-Data-Analytics-and-Visualization-Simulation
+# Data-Analytics-and-Visualization
 Completion Date: December 2024  
 Platform: https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb 
 
